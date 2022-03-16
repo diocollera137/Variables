@@ -1,3 +1,8 @@
-[ CLOUD NEWS ] 
+[ CLOUD NEWS ] *update* 
 
-- Added to the spoofer some drivers fixes, let us know if it works better! 
+- Pushed core update to driver.
+- Actually cleaning system in-built when u spoof. 
+
+Have fun!
+
+-unnamed spoofer developer :)
