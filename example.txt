@@ -1,8 +1,12 @@
 [ CLOUD NEWS ] *update* 
 
 - Pushed core update to driver.
-- Actually cleaning system in-built when u spoof. 
-
+- Actually cleaning system in-built when you spoof. 
+- Added better HWID locking system.
+- Reworked loader and spoofing system ( you should only see first CPU number spoofed, but it will still works.)
+- Rebuilt Loader for better protections and security update.
 Have fun!
 
--unnamed spoofer developer :)
+-unnamed spoofer developer.
+
+
