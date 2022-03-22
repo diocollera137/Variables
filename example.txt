@@ -1,11 +1,7 @@
 [ CLOUD NEWS ] *update* 
 
-- Pushed core update to driver.
-- Actually cleaning system in-built when you spoof. 
-- Added better HWID locking system.
-- Reworked loader and spoofing system ( you should only see first CPU number spoofed, but it will still works.)
-- Rebuilt Loader for better protections and security update.
-Have fun!
+- Added options to find people trying to reverse loader, and blacklisted few ip. 
+- Don't try to break loader , in any case.
 
 -unnamed spoofer developer.
 
